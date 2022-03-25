@@ -45,6 +45,13 @@ ody
 {
     font-size: 20px;
 }
+
+#container #oficina  
+{
+    width: 20px;
+    vertical-align: middle;
+}
+
 #post
 {
     background: white;
